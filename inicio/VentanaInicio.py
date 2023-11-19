@@ -22,3 +22,4 @@ if __name__ == '__main__':
 
     # para terminar la aplicacion
     sys.exit(app.exec_())
+
